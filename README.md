@@ -1,3 +1,3 @@
 # conflict-resolution
 class activity to learn how to fix conflicts when pushing/pulling.
-howdy y'all
+## this is a subheading created in github
